@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Big-Screen
+Name[es]=Pantalla-Grande
+Comment=Make bigger the size of the screen of the mini-laptop
+Comment[es]=Agranda el tamaño de la pantalla de una mini-portatil
+Exec=/home/josean/cambiar-TP/pantalla-grande.sh
+Icon=/usr/share/icons/gnome/256x256/apps/utilities-system-monitor.png
+Terminal=true
+Type=Application
+Categories=Utility;
+Name[es_VE]=Grande
